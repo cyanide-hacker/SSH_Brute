@@ -7,6 +7,6 @@ Install prereq:
 
 pip3 install -r requirements.txt
 
-Runn it:
+Run it:
 
-# python3 ./ssh_brute.py [IP ADDRESS] [USER LIST] [SSH PRIVATE KEY]
+python3 ./ssh_brute.py [IP ADDRESS] [USER LIST] [SSH PRIVATE KEY]
